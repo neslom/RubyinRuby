@@ -28,6 +28,8 @@ p arr.first
 p arr.last
 p arr.join
 p arr.join('-')
+p arr.join("3")
+p arr.join(3)
 p arr.data
 p arr.count
 arr1 = SimpleArray.new([])
